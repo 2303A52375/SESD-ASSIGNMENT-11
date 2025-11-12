@@ -28,8 +28,7 @@ To automate the build and deployment of a movie recommendation web application u
 | Deploy | If all tests pass, GitHub Pages automatically deploys the updated code to a live link | GitHub Pages |
 
 ### 5. Deployment Link
-https://deeleinthz38.github.io/movie-app/
-
+https://2303a52375.github.io/SESD-ASSIGNMENT-11/
 ### 6. CI/CD Flow Diagram
 Developer
 ↓
